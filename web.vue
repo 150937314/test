@@ -2,6 +2,7 @@
   <div>
   
   </div>
+ </tempalte> 
   <script
   default export{
     
@@ -11,4 +12,4 @@
   <style>
   
   </style>
-</tempalte> 
+
